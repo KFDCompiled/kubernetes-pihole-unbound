@@ -3,6 +3,6 @@
 ## Installation
 
 ```console
-helm repo add mojo2600 https://mojo2600.github.io/pihole-kubernetes/
-helm upgrade -i pihole mojo2600/pihole -f values.yaml
+helm repo add KFDCompiled https://KFDCompiled.github.io/kubernetes-pihole-unbound/
+helm upgrade -i pihole KFDCompiled/pihole -f values.yaml
 ```

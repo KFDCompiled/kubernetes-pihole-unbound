@@ -14,15 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoJo2600/pihole-kubernetes.git"
+    "url": "git+https://github.com/KFDCompiled/kubernetes-pihole-unbound.git"
   },
   "author": "Christian Erhardt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MoJo2600/pihole-kubernetes/issues"
+    "url": "https://github.com/KFDCompiled/kubernetes-pihole-unbound/issues"
   },
-  "homepage": "https://github.com/MoJo2600/pihole-kubernetes#readme",
-  "devDependencies": {
-    "all-contributors-cli": "^6.20.0"
-  }
+  "homepage": "https://github.com/KFDCompiled/kubernetes-pihole-unbound#readme",
+  "devDependencies": {}
 }

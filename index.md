@@ -8,7 +8,7 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo and install as follows:
 
 ```console
-helm repo add mojo2600 https://mojo2600.github.io/pihole-kubernetes/
-helm upgrade -i pihole mojo2600/pihole -f values.yaml
+helm repo add KFDCompiled https://mojo2600.github.io/kubernetes-pihole-unbound/
+helm upgrade -i pihole KFDCompiled/pihole -f values.yaml
 ```
 
